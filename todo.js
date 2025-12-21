@@ -2,7 +2,7 @@
 
 let todos = [
     { id: 1, text: "Learn JavaScript", completed: false },    
-    { id: 2, text: "Build Todo App", completed: false },
+    { id: 2, text: "Build JS Todo App", completed: false },
 ];
 
 
